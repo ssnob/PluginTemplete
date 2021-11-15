@@ -1,0 +1,11 @@
+name: TestPlugin
+version: 0.0.1
+author: ssno
+main: com.ssno.templete.Main
+description: Test Mod!
+
+commands:
+  test:
+    aliases: [test]
+    description: Test Mod!
+
